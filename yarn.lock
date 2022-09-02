@@ -2073,7 +2073,7 @@ arweave-stream-tx@^1.1.0:
     exponential-backoff "^3.1.0"
     stream-chunker "^1.2.8"
 
-arweave@1.11.6, arweave@^1.10.13, arweave@^1.10.5, arweave@^1.11.4, arweave@^1.11.6:
+arweave@1.11.6, arweave@^1.10.13, arweave@^1.10.5, arweave@^1.11.4:
   version "1.11.6"
   resolved "https://registry.yarnpkg.com/arweave/-/arweave-1.11.6.tgz#5afcded201c6f123dd62e5bfae1b72ca793ec7c2"
   integrity sha512-D6N6e2z7oZoxFhu/qElLwQ2T8DxZ8xIqDB+Y16KHvZbassIrrS9iALwxLdaFYNInuyElg6i7qotBMcShWbFSTw==
